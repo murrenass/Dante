@@ -82,7 +82,7 @@ Material:
     - _FogVolumeColorBlendOp: 0
     - _FogVolumeDstAlphaBlend: 1
     - _FogVolumeDstColorBlend: 1
-    - _FogVolumeFogDistanceProperty: 2
+    - _FogVolumeFogDistanceProperty: 0.3
     - _FogVolumeSrcAlphaBlend: 1
     - _FogVolumeSrcColorBlend: 1
     - _Height_Tiling: 1.84
@@ -119,7 +119,7 @@ Material:
     - _Direction: {r: 0, g: 0, b: 0, a: 0}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
-    - _FogVolumeSingleScatteringAlbedo: {r: 1, g: 1, b: 1, a: 1}
+    - _FogVolumeSingleScatteringAlbedo: {r: 0.7924528, g: 0.3252047, b: 0.3252047, a: 1}
     - _Offset: {r: 0, g: 0, b: 0, a: 0}
     - _Top_Color: {r: 1, g: 0.94102645, b: 0.83647794, a: 1}
     - _Vector3: {r: 1, g: 0, b: 0, a: 0}
